@@ -7,7 +7,7 @@ when there is a one abstract method in interface then it is called functional in
 the Puporse of that interface is to provide the implementation of that perticuler method only.
 <br>
 
-This is called Single Abstract Method Interface (SAM Interface).
+This is called `Single Abstract Method Interface` (SAM Interface).
 
 <br>
 

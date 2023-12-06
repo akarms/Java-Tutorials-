@@ -88,11 +88,10 @@ public class Demo {
 
 ```
 
-Result:
+Result: `In B 5`
 
-```powershell
-In B 5
-```
+
+
 
 <br>
 
