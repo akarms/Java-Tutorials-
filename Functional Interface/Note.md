@@ -72,6 +72,7 @@ public class Demo {
 
 
 Thus there is only a single fuction in the interface. So, we can use the that function without createing a class like the below code
+@functionalInterface will prevent the user from adding more methods to the interface.
 
 ```java
 
