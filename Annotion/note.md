@@ -37,7 +37,7 @@ public class demo {
  because there is an spell mistake in child class. So, that is not the overriding. This is the method hiding.  
  Finding these type of error become harder when the project is larger.
  
-    ### Method Overriding:
+### Method Overriding:
 
     To overcome the problem of method hiding we have to use the @Override annotation. 
 
@@ -80,6 +80,7 @@ Annotion can be made by the user also.
 <br>
 
 Some annotion are given to show before the compilation of the code.
+<br>
 some annotion are given to show after the compilation of the code.
 
 

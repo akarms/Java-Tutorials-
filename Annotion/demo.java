@@ -7,7 +7,8 @@ class A{
 }
 
 class B extends A{
-    public void showTheDataWhichBelongToThisClass(){
+    @Override
+    public void showTheDataWhichBelongsToThisClass(){
         System.out.println("In B");
     }
 
