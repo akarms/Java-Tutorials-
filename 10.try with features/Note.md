@@ -38,7 +38,7 @@ So we use finally block to close the scanner. it will be closed even if there is
 
 ---
 
-Actually we can do a sibtitute for finally block by using try with resources.
+Actually we can do a subtitute for finally block by using try with resources.
 
 ```java         
 import java.util.Scanner;
