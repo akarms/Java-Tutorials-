@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "9.Buffer reader and scanner",
+        "8.Ducking exception",
+        "7.CustomException",
+        "6.Throw Exception",
+        "5.Try catch with Multiple catches",
+        "4.Exceptions",
+        "3.Lamda expression",
+        "2.Functional Interface",
+        "13.Runnable Thread",
+        "12.thread pririty and sleep",
+        "11.Threads",
+        "10.try with features",
+        "1.Annotion",
+        "14.Swing"
+    ]
+}
